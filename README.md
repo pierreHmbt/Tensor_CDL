@@ -1,1 +1,1 @@
-# Convolutional Dictionary Learning with tensor
+# Convolutional Dictionary Learning with Tensor
