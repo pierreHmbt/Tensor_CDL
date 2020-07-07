@@ -4,4 +4,4 @@ This repository under construction will contain code that implements the Tensor 
 
 Tensor Convolutional Sparse Coding with Low-Rank activations, an application to EEG analysis. 
 
-See https://arxiv.org/abs/2007.02534
+[[link]](https://arxiv.org/abs/2007.02534)
