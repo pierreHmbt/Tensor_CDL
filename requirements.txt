@@ -1,0 +1,5 @@
+numpy==1.14.2
+tensorly==0.4.3
+mne==0.17.2
+sporco==0.1.10
+matplotlib==3.0.0
