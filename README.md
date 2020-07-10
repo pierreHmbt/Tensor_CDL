@@ -1,6 +1,6 @@
 # T-ConvFISTA algorithm
 
-Code of the T-ConvFISTA (TC-FISTA) algorithm used in "Tensor Convolutional Sparse Coding with Low-Rankactivations, an application to EEG analysis". In addition, we provide a pretrained model on the Electroencephalogram signals (EEG) of the paper.
+Code of the T-ConvFISTA (TC-FISTA) algorithm used in "Tensor Convolutional Sparse Coding with Low-Rankactivations, an application to EEG analysis" [[link]](https://arxiv.org/abs/2007.02534). In addition, we provide a pretrained model on the Electroencephalogram signals (EEG) of the paper.
 
 ## Container
 
@@ -11,9 +11,7 @@ The reposity contains the code of TC-FISTA and two notebooks:
 2) One to visualize the pretrained model of the EEG application of the paper
 
 ##### -- Data --
-The folder 'data' contains all nescessary file to visualize the EEG:
-1) Raw signals (64 Mo)
-2) Components learnt with TC-FISTA
+The folder 'data' contains all nescessary file to visualize results on EEG:
 
 One example of atom with its activations
 
@@ -25,9 +23,3 @@ This code runs on Python >= 3.5. Set up environment with:
 ```
 pip install -r requirements.txt
 ```
-
-numpy 1.14.2
-tensorly 0.4.3
-mne 0.17.2
-sporco 0.1.10
-matplotlib 3.0.0
