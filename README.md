@@ -1,6 +1,6 @@
 # T-ConvFISTA algorithm
 
-Code of the T-ConvFISTA (TC-FISTA) algorithm used in "Tensor Convolutional Sparse Coding with Low-Rankactivations, an application to EEG analysis" [[link]](https://arxiv.org/abs/2007.02534). In addition, we provide a pretrained model on the Electroencephalogram signals (EEG) of the paper.
+Code of the T-ConvFISTA (TC-FISTA) algorithm used in "Tensor Convolutional Sparse Coding with Low-Rank activations, an application to EEG analysis" [[link]](https://arxiv.org/abs/2007.02534). In addition, we provide a pretrained model on the Electroencephalogram signals (EEG) of the paper.
 
 ## Container
 
