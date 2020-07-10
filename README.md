@@ -16,9 +16,9 @@ The reposity contains the code of TC-FISTA and three notebooks:
 3) One to empirically check the validity of the different proofs in the paper
 
 ##### -- Data --
-The folder 'data' contains all nescessary files to visualize results on EEG:
+The folder 'data' contains all nescessary files to visualize results on EEG.
 
-One example of atom with its activations
+One example of atom with its activations:
 
 <img src="./outputs_eeg/atom_active_0_.png" alt="drawing" width="1000"/>
 
