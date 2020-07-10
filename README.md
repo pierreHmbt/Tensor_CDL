@@ -5,10 +5,11 @@ Code of the T-ConvFISTA (TC-FISTA) algorithm used in "Tensor Convolutional Spars
 ## Container
 
 ##### -- Notebooks --
-The reposity contains the code of TC-FISTA and two notebooks:
+The reposity contains the code of TC-FISTA and three notebooks:
 
 1) One for synthetic data
 2) One to visualize the pretrained model of the EEG application of the paper
+3) One to empirically check the validity of the different proofs in the paper
 
 ##### -- Data --
 The folder 'data' contains all nescessary file to visualize results on EEG:
