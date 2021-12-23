@@ -4,6 +4,11 @@ Code of the T-ConvFISTA (TC-FISTA) algorithm.
 
 In addition, we provide a pretrained model on the Electroencephalogram signals (EEG) of the paper.
 
+## Related paper:
+
+[Tensor Convolutional Dictionary Learning with CP Low-Rank activations.](https://ieeexplore.ieee.org/abstract/document/9652115)
+P. Humbert, L. Oudre, N. Vayatis, J, Audiffren. In IEEE Transactions on Signal Processing, 2021.
+
 ## Container
 
 ##### -- Notebooks --
