@@ -1,4 +1,4 @@
-numpy==1.14.2
+numpy==1.22.0
 tensorly==0.4.3
 mne==0.17.2
 sporco==0.1.10
